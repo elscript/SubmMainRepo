@@ -1,6 +1,8 @@
 [submodule "ng.Net/WotAutoClicker"]
-	path = WotAutoClicker
+	path = ng.Net/WotAutoClicker
 	url = https://github.com/elscript/WotAutoClicker
+	branch = develop
 [submodule "GitAutomatingScripts"]
 	path = GitAutomatingScripts
 	url = https://github.com/elscript/GitAutomatingScripts.git
+	branch = develop
